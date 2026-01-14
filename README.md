@@ -12,8 +12,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sulekha-Deo&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&icon_color=ffffff&text_color=ffffff" width="350" height="160" style="object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulekha-Deo&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats-five-red-87.vercel.app/api?username=Sulekha-Deo&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&icon_color=ffffff&text_color=ffffff" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats-five-red-87.vercel.app/api/top-langs/?username=Sulekha-Deo&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff" width="350" height="160" style="object-fit: contain;" />
 </div>
 
 ---
